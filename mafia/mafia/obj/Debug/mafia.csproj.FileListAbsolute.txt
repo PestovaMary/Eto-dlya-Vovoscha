@@ -1,0 +1,6 @@
+C:\Users\B0dun\source\repos\mafia\mafia\bin\Debug\mafia.exe
+C:\Users\B0dun\source\repos\mafia\mafia\bin\Debug\mafia.pdb
+C:\Users\B0dun\source\repos\mafia\mafia\obj\Debug\mafia.csprojAssemblyReference.cache
+C:\Users\B0dun\source\repos\mafia\mafia\obj\Debug\mafia.csproj.CoreCompileInputs.cache
+C:\Users\B0dun\source\repos\mafia\mafia\obj\Debug\mafia.exe
+C:\Users\B0dun\source\repos\mafia\mafia\obj\Debug\mafia.pdb
